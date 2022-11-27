@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolBeansProgramming
 - 👀 I’m interested in data science, science fiction, and horror 
-- 🌱 What I'm watching: The Haunting of Hill House 
+- 🌱 What I'm watching: 1899
 - 💞️ What I'm reading: Twenty Thousand Leagues Under the Sea
 
 <!---
