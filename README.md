@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @CoolBeansProgramming
-- 👀 I’m interested in data science, science fiction, and horror 
-- 🌱 What I'm watching: 1899
-- 💞️ What I'm reading: Twenty Thousand Leagues Under the Sea
+Hello! 
+
+I am a Data Analyst in the banking industry currently building projects and developing my portfolio, learning new skills, and working towards becoming a Data Scientist. 
+
+Current technology and software: Excel, Power BI, Tableau, SQL 
+What I have used for statistical analysis: R, SAS
+What I am learning: Python
+
+
 
 <!---
 CoolBeansProgramming/CoolBeansProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
