@@ -1,13 +1,19 @@
-# Hello! 
+# Welcome
 
-I am a Data Analyst in the banking industry currently building projects and developing my portfolio, learning new skills, and working towards becoming a Data Scientist. 
+As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives. I am excited to be at the forefront analyzing large amounts of data that will have real world results. 
 
-## Tools 
-Current technology and software: Excel, Power BI, Tableau, SQL
+In my current role, I primarily use Microsoft Excel and Tableau but have also learned other skills through self-teaching and academic coursework including Microsoft Power BI, R, SAS, Google Sheets, and am familiar with Python, HTML, and CSS. 
 
-What I have used for statistical analysis: R, SAS
 
-What I am learning: Python
+## What I’m Learning Now 
+
+Python (NumPy, Pandas, Data Structures & Algorithms)
+
+
+
+## My Goals 
+Build projects and develop my portfolio, learn new skills, and work towards becoming a Data Scientist. 
+
 
 
 
