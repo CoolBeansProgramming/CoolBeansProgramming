@@ -26,7 +26,7 @@ Python (NumPy, Pandas, Data Structures & Algorithms)
 
 
 ## My Goals 
-Build projects and develop my portfolio, learn new skills, and work towards becoming a Data Scientist. 
+Learn new skills, build projects, and develop my portfolio. 
 
 
 
