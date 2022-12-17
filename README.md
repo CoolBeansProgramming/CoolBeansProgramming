@@ -21,7 +21,7 @@ Familiar With
 
 ## What I’m Learning Now 
 
-Python (NumPy, Pandas, Data Structures & Algorithms)
+Python 
 
 
 
