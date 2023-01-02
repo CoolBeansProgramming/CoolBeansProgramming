@@ -22,7 +22,8 @@ Familiar With
 ## What I’m Learning Now 
 
 Python 
-
+-Numpy, Pandas, Matplotlib, Seaborn
+-Programming
 
 
 ## My Goals 
