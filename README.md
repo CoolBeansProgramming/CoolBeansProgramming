@@ -7,26 +7,11 @@ As an analyst in the banking industry, I use data to deliver actionable insights
 - Excel
 - Tableau 
 - Power BI
-- SQL
-
-Familiar With
+- PostgreSQL
 - R
-- SAS
-- Python
+- Python (Numpy, Pandas, Matplotlib, Seaborn)
 - HTML
 - CSS
-
-
-
-
-## What I’m Learning Now 
-
-Python 
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Programming
 
 
 ## My Goals 
