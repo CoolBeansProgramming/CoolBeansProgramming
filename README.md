@@ -1,17 +1,20 @@
 # Welcome
 
-As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives. I am excited to be at the forefront analyzing large amounts of data that will have real world results. 
+As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives. Being able to analyze large and complex data to solve problems is very rewarding! 
+
+In my current role, I primarily use Microsoft Excel and Tableau but have also learned other skills through self-teaching and academic coursework.
 
 
-## Tools and Technologies
-- Excel
-- Tableau 
-- Power BI
-- PostgreSQL
-- R
-- Python (Numpy, Pandas, Matplotlib, Seaborn)
-- HTML
-- CSS
+## Skills 
+
+* Microsoft Excel
+* Tableau
+* Power BI
+* PostgreSQL
+* Python (NumPy, Pandas, Matplotlib, Seaborn)
+* R
+* HTML/CSS
+* GitHub and version control
 
 
 ## My Goals 
