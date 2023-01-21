@@ -14,7 +14,7 @@ In my current role, I primarily use Microsoft Excel and Tableau but have also le
 * Python (NumPy, Pandas, Matplotlib, Seaborn)
 * R
 * HTML/CSS
-* Familiar with GitHub and version control
+* GitHub and version control
 
 
 ## My Goals 
