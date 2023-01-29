@@ -7,7 +7,7 @@ In my current role, I primarily use Microsoft Excel and Tableau but have also le
 
 ## Skills 
 
-* Microsoft Excel
+* Microsoft Excel (vlookup/xlookup, pivot tables)
 * Tableau
 * Power BI
 * PostgreSQL
