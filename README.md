@@ -11,7 +11,7 @@ In my current role, I primarily use Microsoft Excel and Tableau but have also le
 * Tableau
 * Power BI
 * PostgreSQL
-* Python (NumPy, Pandas, Matplotlib, Seaborn)
+* Python (Pandas, Matplotlib, Seaborn)
 * R
 * HTML/CSS
 * GitHub 
