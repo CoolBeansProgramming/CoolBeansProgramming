@@ -2,7 +2,7 @@
 
 As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives. Being able to analyze large and complex data to solve problems is very rewarding! 
 
-In my current role, I primarily use Microsoft Excel and Tableau but have also learned other skills through self-teaching and academic coursework.
+In my current role, I primarily use Microsoft Excel, Tableau, and SQL but have also learned other skills through self-teaching and academic coursework.
 
 
 ## Skills 
@@ -10,7 +10,7 @@ In my current role, I primarily use Microsoft Excel and Tableau but have also le
 * Microsoft Excel 
 * Tableau
 * Power BI
-* PostgreSQL
+* SQL
 * Python (Pandas, Matplotlib, Seaborn)
 * R
 * HTML/CSS
