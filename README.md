@@ -4,7 +4,7 @@ As an analyst in the banking industry, I use data to deliver actionable insights
 
 ## Currently Working On 
 
-* Machine Learning – studying concepts with Stanford CS229 and applying what I learn using Hands-On Machine Learning (Géron) and Python.
+* Machine Learning – studying concepts with Stanford CS229 and applying what I learn using Hands-On Machine Learning (Géron) and Python
   - Current Algorithm: Multiple Linear Regression 
   - Current Project: using the Ames, IA housing data set to predict the selling price of a home 
 
