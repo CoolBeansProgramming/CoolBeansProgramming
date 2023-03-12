@@ -7,19 +7,36 @@ In my current role, I primarily use Microsoft Excel, Tableau, and SQL but have a
 
 ## Skills 
 
-* Microsoft Excel 
+Software
+
+* Excel (data cleaning, conditional formatting, data validation, VLOOKUP, XLOOKUP, Power Query)
+* Word
+
+Data Visualization
+
 * Tableau
 * Power BI
-* SQL
+
+Languages 
+
+* SQL (Postgres)
 * Python (Pandas, Matplotlib, Seaborn)
-* R
-* HTML/CSS
+* R (statistical analysis)
+
+Envrionments 
+
 * GitHub 
 * Jupyter Notebook
+* VS Code
+* Visual Studio
+* DBeaver
+* Virtual envrionments
+
+Other Fun Stuff
+
+* HTML/CSS
 
 
-## My Goals 
-Learn new skills, build projects, and develop my portfolio. 
 
 
 
