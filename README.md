@@ -37,7 +37,9 @@ Envrionments
 
 Other Fun Stuff
 
+* Feature engineering 
 * HTML/CSS
+* Visio
 
 
 
