@@ -23,7 +23,7 @@ Data Visualization
 Languages 
 
 * SQL (Postgres)
-* Python (Pandas, Matplotlib, Seaborn)
+* Python (NumPy, Pandas, Matplotlib, Seaborn, Beautiful Soup)
 * R (statistical analysis)
 
 Envrionments 
