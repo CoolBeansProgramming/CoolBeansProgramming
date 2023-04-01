@@ -23,7 +23,7 @@ Data Visualization
 Languages 
 
 * SQL (Postgres)
-* Python (NumPy, Pandas, Matplotlib, Seaborn, Beautiful Soup)
+* Python (NumPy, Pandas, Matplotlib, Seaborn)
 * R (statistical analysis)
 
 Envrionments 
@@ -35,9 +35,10 @@ Envrionments
 * DBeaver
 * Virtual envrionments
 
-Other Fun Stuff
+Familiar with
 
-* Feature engineering 
+* Web scraping (Beautiful Soup)
+* OOP Concepts 
 * HTML/CSS
 
 
