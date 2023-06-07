@@ -1,6 +1,6 @@
 # Welcome
 
-As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives. Being able to analyze large and complex data to solve problems is very rewarding! I use Microsoft Excel, Tableau, and SQL in my current role and continue to learn other skills through self-teaching. Now, I am working towards transitioning into a Data Scientist role. 
+As an analyst in the banking industry, I use data to deliver actionable insights to better help customers and executives.
 
 
 
