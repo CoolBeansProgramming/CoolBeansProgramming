@@ -6,36 +6,26 @@ As an analyst in the banking industry, I use data to deliver actionable insights
 
 ## Skills 
 
-Software
+Software & Data Visualization
 
-* Excel (data cleaning, conditional formatting, data validation, VLOOKUP, XLOOKUP, Power Query)
-* Word
-
-Data Visualization
-
+* Excel 
 * Tableau
 * Power BI
 
 Languages 
 
 * SQL 
-* Python (Pandas, Seaborn)
+* Python (Pandas, Seaborn, scripts)
 * R 
 
-Envrionments 
+Environments 
 
 * GitHub 
 * Jupyter Notebook
 * VS Code
 * Visual Studio
 * DBeaver
-* Virtual envrionments
 
-Familiar with
-
-* Web scraping (Beautiful Soup)
-* OOP Concepts 
-* HTML/CSS
 
 
 
