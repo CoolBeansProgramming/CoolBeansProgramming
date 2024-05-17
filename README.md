@@ -23,8 +23,7 @@ Environments
 * GitHub 
 * Jupyter Notebook
 * VS Code
-* Visual Studio
-* DBeaver
+* Snowflake
 
 
 
