@@ -15,7 +15,7 @@ Software & Data Visualization
 Languages 
 
 * SQL 
-* Python (Pandas, Seaborn, scripts)
+* Python
 * R 
 
 Environments 
